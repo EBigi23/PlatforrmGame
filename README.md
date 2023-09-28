@@ -1,7 +1,7 @@
 # PlatforrmGame
 The project consisted of implementing a platform game in ASCII graphics consisting of infinite levels, with the goal of obtaining the highest score. The player controlled the protagonist via keyboard and had to explore the different rooms of the map, facing enemies and collecting artefacts to advance.
 
-## Required to implement a platform game in ASCII graphics:
+### Required to implement a platform game in ASCII graphics:
 - Developed on several levels
 - Score-based
 - The protagonist is controlled by keyboard
@@ -12,7 +12,7 @@ Legend:
 - XXXXXX: closed door
 - " ": open door
 
-## RUNNING OF THE GAME
+### RUNNING OF THE GAME
 Minimum and mandatory requirements:
 - The map is explored as the player progresses
 - There are no goals
@@ -21,7 +21,7 @@ Minimum and mandatory requirements:
 - n order to move from one room to another, it is necessary to take artefacts/defeat enemie
 - It is possible to find 'powers' to unlock passages leading to artefacts
 
-## THE SCORE
+### THE SCORE
 - The human player controls the protagonist
 - The protagonist has a life score and hearts; 10 life points correspond to one heart
 - On the way the protagonist encounters enemies, artefacts and powers
